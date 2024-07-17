@@ -1,5 +1,5 @@
 The smart contract from the GitHub link may not "fail" in the sense of being non-functional, but it does exhibit severa potential vulnerabilities and areas for improvement. 
-https://github.com/Eriststark/check_vottun_smart_contract
+
 Errors
 
 - The contract does not provide a way to change the owner if needed.
